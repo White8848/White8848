@@ -11,7 +11,7 @@ I'm Qinghua He(何清华), an undergraduate student at CUP.
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Dev-ROS/ROS2-informational?style=flat&logo=ros&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Dev-STM32/ROS2-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Dev-STM32-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
