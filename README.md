@@ -2,6 +2,8 @@
 
 I'm Qinghua He(何清华), an undergraduate student at CUP.
 
+Get more information about me [here](https://white8848.github.io/).
+
 ### 🔭 Interests
 - Design of robot motion control system
 - Robot Vision Recognition Applications
